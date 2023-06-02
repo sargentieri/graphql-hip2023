@@ -1,0 +1,8 @@
+query GET_FILMS_QUERY {
+  allFilms {
+    films {
+      id
+      title
+    }
+  }
+}
